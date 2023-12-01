@@ -1,0 +1,48 @@
+
+[
+  {
+    "question": "What is the ultimate goal of life according to Hinduism?",
+    "options": ["Moksha", "Wealth", "Power", "Happiness"],
+    "correctAnswer": "Moksha"
+  },
+  {
+    "question": "What is the principle of non-violence called in Sanskrit?",
+    "options": ["Ahimsa", "Dharma", "Karma", "Yoga"],
+    "correctAnswer": "Ahimsa"
+  },
+  {
+    "question": "Which sacred text is considered the foundation of Hinduism?",
+    "options": ["Bhagavad Gita", "Ramayana", "Mahabharata", "Vedas"],
+    "correctAnswer": "Vedas"
+  },
+  {
+    "question": "What is the concept of reincarnation called in Hinduism?",
+    "options": ["Punarjanma", "Moksha", "Nirvana", "Samsara"],
+    "correctAnswer": "Punarjanma"
+  },
+  {
+    "question": "What is the practice of meditation called in Yoga?",
+    "options": ["Asana", "Pranayama", "Dhyana", "Samadhi"],
+    "correctAnswer": "Dhyana"
+  },
+  {
+    "question": "What is the ultimate state of enlightenment and liberation called in Buddhism?",
+    "options": ["Nirvana", "Samsara", "Dharma", "Karma"],
+    "correctAnswer": "Nirvana"
+  },
+  {
+    "question": "What is the concept of non-duality called in Advaita Vedanta?",
+    "options": ["Moksha", "Brahman", "Atman", "Maya"],
+    "correctAnswer": "Advaita"
+  },
+  {
+    "question": "What is the practice of chanting mantras called in Hinduism?",
+    "options": ["Japa", "Kirtan", "Arati", "Puja"],
+    "correctAnswer": "Japa"
+  },
+  {
+    "question": "What is the concept of cosmic energy called in Yoga?",
+    "options": ["Prana", "Kundalini", "Chakra", "Nadi"],
+    "correctAnswer": "Prana"
+  }
+]
