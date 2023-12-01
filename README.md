@@ -1,6 +1,6 @@
 # mcq-quiz
 This Mcq Quiz web app made with ReactJS & TailwindCSS
-
+In this all quetions will be taken from Questions.JSON File
 
 Video:
 
